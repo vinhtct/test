@@ -2,4 +2,4 @@
 
 ## Articles
 
-- [Knowledge Base](knowledgeBaseTest
+- [Knowledge Base](knowledgeBaseTest)
